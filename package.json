@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "node": "^19.4.0",
+    "sequelize": "^6.28.0",
+    "tedious": "^15.1.2"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "jest-when": "^3.5.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
